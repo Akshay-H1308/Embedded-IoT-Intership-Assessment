@@ -1,4 +1,5 @@
-# Embedded-IoT-Intership-Assessment
+Embedded-IoT-Internship-Assessment
+
 A small beginning in my Embedded & IoT journey—learning, building, and evolving.
 About
 
